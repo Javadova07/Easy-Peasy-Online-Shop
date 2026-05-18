@@ -37,7 +37,8 @@ php artisan serve
 <img width="1919" height="881" alt="image" src="https://github.com/user-attachments/assets/a68e4241-b965-4ad5-a78c-aca924638fa4" />
 ## Product Page
 <img width="1516" height="876" alt="image" src="https://github.com/user-attachments/assets/88075475-50ea-4878-ac2b-c713713dd8fc" />
-<img width="1180" height="765" alt="image" src="https://github.com/user-attachments/assets/a362612a-73b7-488a-90a5-ccda2b7168d7" />
+<img width="1531" height="855" alt="image" src="https://github.com/user-attachments/assets/4eeac851-31ea-416c-95cb-bdacb67cdd9e" />
+
 ## Cart Page
 <img width="1433" height="613" alt="image" src="https://github.com/user-attachments/assets/5f57d6de-72a8-4998-9e9d-e09d38e86683" />
 ## Delivery Page
